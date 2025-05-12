@@ -48,6 +48,7 @@ argo-cicd-api/
 │   └── prod/
 ├── .github/workflows/    # GitHub Actions 워크플로우 파일
 └── README.md
+```
 ---
 
 ## 🚀 배포 플로우
